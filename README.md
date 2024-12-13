@@ -1,20 +1,16 @@
-Hello! 👋 I'm **Pallavi Vanjarapu**, an aspiring Data Analyst with a solid educational foundation and hands-on experience in data analytics. I hold a BSc degree in Statistics from KBN College, which has equipped me with a strong background in statistical analysis and data interpretation.
-
-**PROFESSIONAL SUMMARY**
-
-As an entry-level Data Analyst, I recently completed the Google Data Analytics Professional Certificate Course on Coursera, enhancing my skills in Excel, Tableau, SQL, and R. This certification has expanded my knowledge and prepared me to tackle complex data challenges.
+Hello! 👋 I'm **Pallavi Vanjarapu**, a passionate professional skilled in Python, Power BI, SQL and Excel. I hold a BSc degree in Statistics from KBN College, which has equipped me with a strong background in statistical analysis and data interpretation. I love turning ideas into reality and always strive to deliver great results. Let's work together to create something amazing!
 
 **EXPERIENCE**
 
 
 **KultureHire - Data Analyst Intern**                 
-November 2024 - Present 
+November 2024 - December 2024
 
 Conducted a project analyzing GenZ career aspirations, using prescriptive and descriptive analytics to provide insights for freshers and employers on attracting, retaining, and managing talent.
 
 
 **FixityEDX - Student Trainee**                       
-April 2024 - Present 
+April 2024 - December 2024 
 
 ->Worked on innovative projects such as Adventure Works Visualization and Market Size Analysis of Electric Vehicles.
 
@@ -43,6 +39,8 @@ October 2024
 **CERTIFICATIONS**
 
 Google Data Analytics - Certified by Google on Coursera.
+
+Power BI Gold Certificate - Certified by NASSCOM.
 
 
 **VISION**
