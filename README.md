@@ -2,7 +2,7 @@ Hello! 👋 I'm **Pallavi Vanjarapu**, a passionate professional skilled in Pyth
 
 **EXPERIENCE**
 
-**Oorwin - Junior Data Scientist**
+**Oorwin - Junior Data Scientist**                 
 December 2024 - Present
 
 **KultureHire - Data Analyst Intern**                 
